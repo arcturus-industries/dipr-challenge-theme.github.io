@@ -16,6 +16,7 @@
 
 .notion-callout__content {
     margin: 15px !important;
+    color: var(--color-bg-default) !important;
     align-self: center !important;
 }
 
@@ -24,7 +25,7 @@
 }
 
 .notion-callout .notion-semantic-string .link {
-    color: black !important;
+    color: var(--color-bg-default) !important;
     justify-content: center !important;
     border-radius: 100px !important;
     align-items: center !important;
