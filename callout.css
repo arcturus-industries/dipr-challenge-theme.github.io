@@ -24,7 +24,7 @@
 }
 
 .notion-callout .notion-semantic-string .link {
-    color: var(--color-bg-default) !important;
+    color: black !important;
     justify-content: center !important;
     border-radius: 100px !important;
     align-items: center !important;
