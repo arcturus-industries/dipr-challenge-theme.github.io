@@ -5,8 +5,8 @@
     width: fit-content !important;
     position: relative !important;
     min-height: 60px !important;
-    border: 15px !important;
-    align-self: center !important;
+    border: none !important;
+    
     padding: 0 !important;
 }
 
@@ -15,7 +15,8 @@
 }
 
 .notion-callout__content {
-    margin: 0 !important;
+    margin: 15px !important;
+    align-self: center !important;
 }
 
 .notion-callout__icon {
