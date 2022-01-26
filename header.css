@@ -1,8 +1,8 @@
 .notion-header__title {
-    text-align: center !important;
+    text-align: left !important;
 }
 
 .notion-header__cover.no-cover {
-    max-height: 280px !important;
-    height: 280px !important;
+    max-height: 100px !important;
+    height: 100px !important;
 }

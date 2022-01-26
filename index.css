@@ -1,6 +1,6 @@
-#page-index .notion-header {
+/* #page-index .notion-header {
     display: none !important;
-}
+} */
 
 #page-index h1 {
     max-width: var(--container-md);
