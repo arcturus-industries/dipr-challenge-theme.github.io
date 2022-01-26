@@ -1,7 +1,9 @@
 .notion-page__icon {
     display: none !important;
 }
-
+.notion-header {
+    display: none !important;
+}
 .notion-page {
     transition: var(--transition) !important;
     letter-spacing: -1px !important;
