@@ -1,7 +1,7 @@
 .notion-page__icon {
     display: none !important;
 }
-.notion-header {
+#page .notion-header {
     display: none !important;
 }
 .notion-page {
