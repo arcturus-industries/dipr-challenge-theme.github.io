@@ -36,7 +36,7 @@ a {
 }
 
 .notion-semantic-string .link:hover {
-    color: var(--color-text-default) !important;
+    color:#CCCCCC !important;
 }
 
 @media (max-width: 600px) {
