@@ -18,3 +18,7 @@
 .notion-page>div:hover {
     background: none !important;
 }
+
+#page-sign-up .notion-header {
+    display: none !important;
+}
