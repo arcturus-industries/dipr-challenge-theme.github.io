@@ -29,6 +29,10 @@
     font-size: 24px !important;
 }
 
+.notion-breadcrumb  {
+    background:transparent !important;
+}
+
 @media (max-width: 600px) {
 
     .notion-navbar {
